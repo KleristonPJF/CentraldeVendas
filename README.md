@@ -22,9 +22,9 @@ O objetivo principal é fornecer uma solução que modernize a gestão de mercan
 - Proteção dos dados e transações dos usuários.
 - Interface intuitiva e fácil de usar.
 
-##Diagrama de uso
+## Diagrama de uso
 
-![Diagrama de uso](CentraldeVendas/DiagramadeUso.png)
+![Diagrama de uso](DiagramadeUso.png)
 
 ## Tecnologias Utilizadas
 - **Linguagem**: Java
