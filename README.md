@@ -19,7 +19,6 @@ O objetivo principal é fornecer uma solução que modernize a gestão de mercan
 
 ## Requisitos Não Funcionais
 - Processamento de vendas em menos de 2 segundos.
-- Suporte para até 50 usuários ativos simultaneamente.
 - Proteção dos dados e transações dos usuários.
 - Interface intuitiva e fácil de usar.
 
@@ -32,7 +31,7 @@ O objetivo principal é fornecer uma solução que modernize a gestão de mercan
 O sistema é estruturado utilizando princípios de Orientação a Objetos, incluindo herança, polimorfismo e encapsulamento. A implementação segue a seguinte estrutura de pacotes:
 - **Modelo**: Contém as classes principais como Produto, Alimento, Limpeza, etc.
 - **Controle**: Gerencia as funcionalidades do sistema como cadastro de produtos e controle de estoque.
-- **Interface**: Implementa a interface web para interação com o usuário.
+- **Interface**: Implementa na interface de texto para interação com o usuário.
 
 ## Metodologia de Desenvolvimento
 Adotamos a metodologia ágil com o framework **Scrum**, onde o desenvolvimento foi dividido em sprints curtos para garantir feedback constante dos stakeholders. Cada sprint resultou em um incremento funcional do sistema, permitindo ajustes rápidos.
@@ -59,5 +58,3 @@ O **Mercantil Fácil** busca modernizar os pequenos mercantis, fornecendo uma so
 2. Importe o projeto em sua IDE Java.
 3. Compile e execute o projeto.
 
-## Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
