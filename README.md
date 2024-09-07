@@ -54,7 +54,7 @@ Adotamos a metodologia ágil com o framework **Scrum**, onde o desenvolvimento f
 O **Mercantil Fácil** busca modernizar os pequenos mercantis, fornecendo uma solução prática para os desafios do dia a dia, como controle de estoque, vendas e relatórios de desempenho. Ao implementar este sistema, os comerciantes poderão aumentar sua eficiência e melhorar a competitividade no mercado.
 
 ## Como Executar
-1. Clone este repositório: `git clone https://github.com/seu-usuario/mercantil-facil.git`
+1. Clone este repositório: `git clone https://github.com/KleristonPJF/CentraldeVendas.git`
 2. Importe o projeto em sua IDE Java.
 3. Compile e execute o projeto.
 
